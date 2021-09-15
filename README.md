@@ -95,16 +95,9 @@
 
 [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527). ArXiv, 2021. [[Page]](https://pare.is.tue.mpg.de) 
 
-
 [Parametric Shape Estimation of Human Body under Wide Clothing](https://ieeexplore.ieee.org/document/9219144). ACM MM, 2020.  [[Code]](https://github.com/YCL92/SHADER)
 
-[Everybody Is Unique: Towards Unbiased Human Mesh Recovery](https://arxiv.org/abs/2107.06239). ArXiv, 2021.  
-
-[3D Human Pose, Shape and Texture from Low-Resolution Images and Videos](https://arxiv.org/abs/2103.06498). ArXiv, 2021.  
-
-[On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176). CVPR, 2021. [[Page]](https://tuch.is.tue.mpg.de) 
-
-[Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild](https://arxiv.org/abs/2103.10978). CVPR, 2021.  
+[3D Human Pose, Shape and Texture from Low-Resolution Images and Videos](https://arxiv.org/abs/2103.06498). ArXiv, 2021.  [[Code]](https://github.com/xuxy09/RSC-Net)
 
 [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [[Page]](https://ait.ethz.ch/projects/2020/learned-body-fitting) 
 
