@@ -1,6 +1,5 @@
-# Awesome 3D Body Papers
+# 3D Human Reconstruction Papers
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An awesome & curated list of papers about 3D human body.
 
