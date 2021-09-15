@@ -175,7 +175,7 @@
 
 
 [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507). ICCV (Oral), 2021. [[Page]](https://hongwenzhang.github.io/pymaf) [[Code]](https://github.com/HongwenZhang/PyMAF)\
-- **Abstract:** pixel-wise supervision is imposed on the feature encoder, which provides mesh-image correspondence guidance
+- **Abstract:** Corse mesh projected onto 2D feature to obtain Mesh-aligned Features. And use Mesh-aligned Features to update SMPL parameter in the loop use Iterative Error Feedback (IEF) from HMR.
 - **Dataset:**  Human3.6M, 3DPW, LSP, and COCO
 
 
