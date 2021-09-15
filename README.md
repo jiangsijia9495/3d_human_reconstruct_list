@@ -1,12 +1,8 @@
-# Awesome 3D Body Papers
+# 3D Human Paper List
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An awesome & curated list of papers about 3D human body.
 
-
-
-:point_right: **Note**: see paper list sorted by [**year**](README_year.md) or [**publication**](README_pub.md).
 
 
 -----
@@ -31,25 +27,17 @@
 ## Body Model
 
 
-[SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [[Page]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html) 
-
 [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [[Page]](https://smpl.is.tue.mpg.de) [[Code]](https://github.com/vchoutas/smplx)
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [[Page]](https://smpl-x.is.tue.mpg.de) [[Code]](https://github.com/vchoutas/smplify-x)
 
 [SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](https://arxiv.org/pdf/2004.00326). Eurographics, 2020. [[Page]](http://dancasas.github.io/projects/SoftSMPL) 
 
-[Modeling and Estimation of Nonlinear Skin Mechanics for Animated Avatars](http://dancasas.github.io/docs/romero_Eurographics2020.pdf). Eurographics, 2020. [[Page]](https://dancasas.github.io/projects/SkinMechanics) 
-
 [STAR: Sparse Trained Articulated Human Body Regressor](https://arxiv.org/pdf/2008.08535). ECCV, 2020. [[Page]](http://star.is.tue.mpg.de) [[Code]](https://github.com/ahmedosman/STAR)
 
 [BLSM: A Bone-Level Skinned Model of the Human Mesh](https://www.arielai.com/blsm/data/paper.pdf). ECCV, 2020. [[Page]](https://www.arielai.com/blsm) 
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [[Code]](https://github.com/Intelligent-Systems-Research-Group/JOMS)
-
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [[Code]](https://github.com/google-research/google-research/tree/master/ghum)
-
-[BASH: Biomechanical Animated Skinned Human for Visualization of Kinematics and Muscle Activity](https://www.scitepress.org/Papers/2021/102106/102106.pdf). GRAPP, 2021.  [[Code]](https://github.com/mad-lab-fau/BASH-Model)
 
 [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871). CVPR, 2021. [[Page]](http://www.iri.upc.edu/people/ecorona/smplicit) [[Code]](https://github.com/enriccorona/SMPLicit)
 
@@ -62,82 +50,28 @@
 
 ## Body Pose
 
-
-[MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency](https://arxiv.org/abs/2006.12075). ToG, 2020. [[Page]](http://rubbly.cn/publications/motioNet) [[Code]](https://github.com/Shimingyi/MotioNet)
-
-[VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf). SIGGRAPH Asia, 2017. [[Page]](http://gvv.mpi-inf.mpg.de/projects/VNect) [[Code]](http://gvv.mpi-inf.mpg.de/projects/VNect)
-
-[XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera](https://arxiv.org/abs/1907.00837). SIGGRAPH, 2020. [[Page]](https://sites.google.com/view/http%3A%2F%2Fgvv.mpi-inf.mpg.de%2Fprojects%2FXNect%2F) [[Code]](https://sites.google.com/view/https%3A%2F%2Fgithub.com%2Fmehtadushy%2FSelecSLS-Pytorch%2F)
-
-[PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time](https://arxiv.org/abs/2008.08880). SIGGRAPH Asia, 2020. [[Page]](http://gvv.mpi-inf.mpg.de/projects/PhysCap) 
-
-[Neural Monocular 3D Human Motion Capture with Physical Awareness](https://arxiv.org/abs/2105.01057). SIGGRAPH, 2021. [[Page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware) 
-
-[PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/abs/2105.02465). CVPR (Oral), 2021. [[Page]](https://jeff95.me) [[Code]](https://github.com/jfzhang95/PoseAug)
-
-[Cascaded Deep Monocular 3D Human Pose Estimation with Evolutionary Training Data](https://arxiv.org/abs/2006.07778). CVPR, 2020.  [[Code]](https://github.com/Nicholasli1995/EvoSkeleton)
-
-[PoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029). ArXiv, 2020.  [[Code]](hhttps://github.com/juyongchang/PoseLifter)
+[PoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029). ArXiv, 2020.  [[Code]](https://github.com/juyongchang/PoseLifter)
 
 [Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows](https://arxiv.org/abs/2107.13788). ICCV, 2021.  [[Code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
 
-[Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [[Code]](https://github.com/karfly/learnable-triangulation-pytorch)
-
-[FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction](https://arxiv.org/abs/2105.01937). ArXiv, 2021. [[Page]](https://briang13.github.io/FLEX) 
-
-[Weakly-supervised Cross-view 3D Human Pose Estimation](https://arxiv.org/abs/2105.10882). ArXiv, 2021.  
 
 [Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329). CVPR, 2020.  [[Code]](https://github.com/fabbrimatteo/LoCO)
 
-[PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2101.02471). ArXiv, 2021.  
-
-[SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation](https://arxiv.org/abs/2008.11469). ECCV, 2020. [[Page]](https://zju3dv.github.io/SMAP) [[Code]](https://github.com/zju3dv/SMAP)
-
-[PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation](https://arxiv.org/pdf/2010.05302). WACV, 2021.  
-
 [Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks](https://arxiv.org/abs/2104.01797). CVPR, 2021.  [[Code]](https://github.com/3dpose/3D-Multi-Person-Pose)
-
-[FCPose: Fully Convolutional Multi-Person Pose Estimation with Dynamic Instance-Aware Convolutions](https://arxiv.org/abs/2105.14185). CVPR, 2021.  [[Code]](https://git.io/AdelaiDet)
-
-[End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](None). ECCV (Oral), 2020.  
-
-[Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986). ArXiv, 2020.  [[Code]](https://github.com/HeCraneChen/3D-Crowd-Pose-Estimation-Based-on-MVG)
-
-[Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo](https://arxiv.org/abs/2104.02273). CVPR, 2021.  [[Code]](https://github.com/jiahaoLjh/PlaneSweepPose)
-
-[Temporal Smoothing for 3D Human Pose Estimation and Localization for Occluded People](https://arxiv.org/abs/2011.00250). ArXiv, 2020.  [[Code]](https://github.com/vegesm/pose_refinement)
 
 [Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.html). CVPR (Oral), 2020.  [[Code]](https://github.com/vegesm/pose_refinement)
 
 [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/abs/2103.10455). ArXiv, 2021.  [[Code]](https://github.com/zczcwh/PoseFormer)
 
-[Skeletor: Skeletal Transformers for Robust Body-Pose Estimation](https://arxiv.org/abs/2104.11712). ArXiv, 2021.  
 
 [A Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video](https://arxiv.org/abs/2003.14179). ArXiv, 2020. [[Page]](http://www.juanrojas.net/gast) [[Code]](https://github.com/fabro66/GAST-Net-3DPoseEstimation)
 
-[TriPose: A Weakly-Supervised 3D Human Pose Estimation via Triangulation from Video](https://arxiv.org/abs/2105.06599). ArXiv, 2021.  
-
-[MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227). T-BIOM, 2020. [[Page]](https://sites.google.com/a/udayton.edu/jshen1/cvpr2020) [[Code]](https://github.com/lrxjason/Attention3DHumanPose)
-
-[PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607). CVPR, 2021.  
-
-[Real-time Lower-body Pose Prediction from Sparse Upper-body Tracking Signals](https://arxiv.org/abs/2103.01500). ArXiv, 2021.  
-
-[Context Modeling in 3D Human Pose Estimation: A Unified Perspective](https://arxiv.org/abs/2103.15507). CVPR, 2021.  
-
-[CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2011.14679). CVPR, 2021.  
-
-[Invariant Teacher and Equivariant Student for Unsupervised 3D Human Pose Estimation](https://arxiv.org/abs/2012.09398). AAAI, 2021.  [[Code]](https://github.com/sjtuxcx/ITES)
 
 [Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement](https://arxiv.org/abs/2007.07053). ECCV, 2020.  [[Code]](https://github.com/NIEQiang001/unsupervised-human-pose)
 
-[DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild](https://arxiv.org/abs/2008.09457). ECCV, 2020.  [[Code]](https://github.com/naver/dope)
-
-[MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [[Code]](https://github.com/FORTH-ModelBasedTracker/MocapNET)
 
 [Residual Pose: A Decoupled Approach for Depth-based 3D Human Pose Estimation](https://arxiv.org/pdf/2011.05010.pdf). IROS, 2020.  [[Code]](https://github.com/idiap/residual_pose)
 
-[PoP-Net: Pose over Parts Network for Multi-Person 3D Pose Estimation from a Depth Image](https://arxiv.org/abs/2012.06734). ArXiv, 2020.  [[Code]](https://github.com/idiap/residual_pose)
 
 
 ## Naked Body Mesh
@@ -155,17 +89,12 @@
 
 [Learning 3D Human Shape and Pose from Dense Body Parts](https://hongwenzhang.github.io/dense2mesh/pdf/learning3Dhuman.pdf). ArXiv, 2019. [[Page]](https://hongwenzhang.github.io/dense2mesh/) [[Code]](https://hongwenzhang.github.io/dense2mesh)
 
-[Heuristic Weakly Supervised 3D Human Pose Estimation in Novel Contexts without Any 3D Pose Ground Truth](https://arxiv.org/abs/2105.10996). ArXiv, 2021.  
-
-[Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation](https://arxiv.org/abs/2105.13965). ArXiv, 2021.  
-
 [Full-Body Awareness from Partial Observations](https://arxiv.org/abs/2008.06046). ECCV, 2020. [[Page]](https://crockwell.github.io/partial_humans) [[Code]](https://github.com/crockwell/partial_humans)
 
 [Object-Occluded Human Shape and Pose Estimation from a Single Color Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object-Occluded_Human_Shape_and_Pose_Estimation_From_a_Single_Color_CVPR_2020_paper.pdf). CVPR, 2020. [[Page]](https://www.yangangwang.com/papers/ZHANG-OOH-2020-03.html) [[Code]](https://gitee.com/seuvcl/CVPR2020-OOH)
 
 [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527). ArXiv, 2021. [[Page]](https://pare.is.tue.mpg.de) 
 
-[3D Multi-bodies: Fitting Sets of Plausible 3D Human Models to Ambiguous Image Data](https://arxiv.org/abs/2011.00980). NeurIPS, 2020.  
 
 [Parametric Shape Estimation of Human Body under Wide Clothing](https://ieeexplore.ieee.org/document/9219144). ACM MM, 2020.  [[Code]](https://github.com/YCL92/SHADER)
 
