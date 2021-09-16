@@ -312,6 +312,9 @@
 [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313). CVPR (Oral), 2021. [[Page]](https://scanimate.is.tue.mpg.de) 
 
 [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871). CVPR, 2021. [[Page]](http://www.iri.upc.edu/people/ecorona/smplicit) [[Code]](https://github.com/enriccorona/SMPLicit)
+- **Abstract:** A generative model that is capable of representing clothes under different topology. And use Mesh-aligned Features to update SMPL parameter in the loop use Iterative Error Feedback (IEF) from HMR.
+- **Dataset:**  Human3.6M, 3DPW, LSP, and COCO
+
 
 [StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision](https://arxiv.org/abs/2006.08072). CVPR, 2021. [[Page]](https://hy1995.top/StereoPIFuProject) [[Code]](https://github.com/CrisHY1995/StereoPIFu_Code)
 
@@ -319,7 +322,7 @@
 
 
 ###  ICCV
-
+[DeepHuman: 3D Human Reconstruction from a Single Image](https://arxiv.org/pdf/1903.06473.pdf). ICCV, 2019. [[Code]](https://github.com/ZhengZerong/DeepHuman)
 
 [3DPeople: Modeling the Geometry of Dressed Humans](https://arxiv.org/abs/1904.04571). ICCV, 2019. [[Page]](https://www.albertpumarola.com/research/3DPeople/index.html) [[Code]](https://github.com/albertpumarola/3DPeople-Dataset)
 
