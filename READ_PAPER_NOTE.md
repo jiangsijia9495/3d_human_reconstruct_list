@@ -315,7 +315,7 @@
 - **Abstract:** A generative model that is capable of representing clothes under different topology.
 - **Dataset:**  self-generated
 - **Method:** 
-  1. generate SMPL UV map, on which implement image encoder and auto-econder to get **z**.\ 
+  1. generate SMPL UV map, on which implement image encoder and auto-econder to get **z**.
   2. positional econding on body shape.
 - **Inspiration:** positional enconding.
 
