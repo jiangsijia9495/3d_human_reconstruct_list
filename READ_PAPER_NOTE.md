@@ -312,9 +312,10 @@
 [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313). CVPR (Oral), 2021. [[Page]](https://scanimate.is.tue.mpg.de) 
 
 [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871). CVPR, 2021. [[Page]](http://www.iri.upc.edu/people/ecorona/smplicit) [[Code]](https://github.com/enriccorona/SMPLicit)
-- **Abstract:** A generative model that is capable of representing clothes under different topology. And use Mesh-aligned Features to update SMPL parameter in the loop use Iterative Error Feedback (IEF) from HMR.
-- **Dataset:**  Human3.6M, 3DPW, LSP, and COCO
-
+- **Abstract:** A generative model that is capable of representing clothes under different topology.
+- **Dataset:**  self-generated
+- **Method:** 1. generate SMPL UV map, on which implement image encoder and auto-econder to get **z**. 2. positional econding on body shape.
+- **Inspiration:** positional enconding.
 
 [StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision](https://arxiv.org/abs/2006.08072). CVPR, 2021. [[Page]](https://hy1995.top/StereoPIFuProject) [[Code]](https://github.com/CrisHY1995/StereoPIFu_Code)
 
