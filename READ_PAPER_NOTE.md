@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+- [Object 3D reconstruction](#Object-3D-reconstruction)
 - [Body Model](#body-model)
 - [Body Pose](#body-pose)
 - [Naked Body Mesh](#naked-body-mesh)
@@ -22,8 +23,7 @@
 
 -----
 
-
-## Body Model
+## Object 3D reconstruction
 
 
 ###  CVPR
@@ -41,7 +41,26 @@
 ###  ArXiv
 
 
-[NPMs: Neural Parametric Models for 3D Deformable Shapes](https://arxiv.org/abs/2104.00702). ArXiv, 2021. [[Page]](https://www.youtube.com/watch?v=muZXXgkkMPY) 
+###  Others
+
+
+## Body Model
+
+
+###  CVPR
+
+
+[Deep Implicit Templates for 3D Shape Representation](http://www.liuyebin.com/dit/assets/main.pdf).CVPR, 2021. [[Code]](https://github.com/ZhengZerong/DeepImplicitTemplates)
+
+###  ECCV
+
+
+
+###  SIGGRAPH(ASIA)/ToG
+
+
+###  ArXiv
+ 
 
 
 ###  Others
