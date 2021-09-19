@@ -28,7 +28,7 @@
 
 ###  CVPR
 
-
+[Deep Implicit Templates for 3D Shape Representation](http://www.liuyebin.com/dit/assets/main.pdf).CVPR, 2021. [[Code]](https://github.com/ZhengZerong/DeepImplicitTemplates)
 
 
 ###  ECCV
@@ -50,7 +50,6 @@
 ###  CVPR
 
 
-[Deep Implicit Templates for 3D Shape Representation](http://www.liuyebin.com/dit/assets/main.pdf).CVPR, 2021. [[Code]](https://github.com/ZhengZerong/DeepImplicitTemplates)
 
 ###  ECCV
 
