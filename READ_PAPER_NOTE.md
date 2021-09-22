@@ -28,7 +28,7 @@
 
 ###  CVPR
 
-[x][Deep Implicit Templates for 3D Shape Representation](http://www.liuyebin.com/dit/assets/main.pdf).CVPR, 2021. [[Code]](https://github.com/ZhengZerong/DeepImplicitTemplates)
+[x]\[Deep Implicit Templates for 3D Shape Representation](http://www.liuyebin.com/dit/assets/main.pdf).CVPR, 2021. [[Code]](https://github.com/ZhengZerong/DeepImplicitTemplates)
 
 - **Abstract:** Our method decomposes the **DIF** representation into a warping function and an implicit template. The **warping
 function** transforms point samples of shape **c** to their canonical positions, which are then mapped to SDF values by the **implicit template**.
