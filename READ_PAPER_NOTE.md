@@ -30,10 +30,10 @@
 
 - [x] [Deep Implicit Templates for 3D Shape Representation](http://www.liuyebin.com/dit/assets/main.pdf).CVPR, 2021. [[Code]](https://github.com/ZhengZerong/DeepImplicitTemplates)
 
-- **Abstract:** Our method decomposes the **DIF** representation into a warping function and an implicit template. The **warping
-function** transforms point samples of shape **c** to their canonical positions, which are then mapped to SDF values by the **implicit template**.
-- **Dataset:**  ShapeNet
-- **Inspiration:** Wrapping function.
+       - **Abstract:** Our method decomposes the **DIF** representation into a warping function and an implicit template. The **warping
+      function** transforms point samples of shape **c** to their canonical positions, which are then mapped to SDF values by the **implicit template**.
+       - **Dataset:**  ShapeNet
+       - **Inspiration:** Wrapping function.
 
 
 ###  ECCV
@@ -364,7 +364,10 @@ function** transforms point samples of shape **c** to their canonical positions,
 
 [Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction](https://arxiv.org/abs/2007.11432). ECCV (Oral), 2020. [[Page]](https://virtualhumans.mpi-inf.mpg.de/ipnet) [[Code]](https://github.com/bharat-b7/IPNet)
 
-[Monocular Real-Time Volumetric Performance Capture](https://arxiv.org/abs/2007.13988). ECCV, 2020. [[Page]](http://xiuyuliang.cn/monoport) [[Code]](https://github.com/Project-Splinter/MonoPort)
+- [x] [Monocular Real-Time Volumetric Performance Capture](https://arxiv.org/abs/2007.13988). ECCV, 2020. [[Page]](http://xiuyuliang.cn/monoport) [[Code]](https://github.com/Project-Splinter/MonoPort)
+       - **Dataset:**  RenderPeople Buff
+       - **Inspiration:** Online Hard Sample Mining.
+
 
 [NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image](https://arxiv.org/abs/2007.15340). ECCV, 2020. [[Page]](http://www.liuyebin.com/NormalGan/normalgan.html) 
 
