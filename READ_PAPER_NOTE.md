@@ -367,7 +367,9 @@
 - [x] [Monocular Real-Time Volumetric Performance Capture](https://arxiv.org/abs/2007.13988). ECCV, 2020. [[Page]](http://xiuyuliang.cn/monoport) [[Code]](https://github.com/Project-Splinter/MonoPort)
 
      - **Dataset:**  RenderPeople Buff
-     - **Inspiration:** Online Hard Sample Mining.
+     - **Inspiration:** 
+      - Online Hard Sample Mining.
+      - Obtain faster convergence when using BCE.
 
 
 [NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image](https://arxiv.org/abs/2007.15340). ECCV, 2020. [[Page]](http://www.liuyebin.com/NormalGan/normalgan.html) 
