@@ -370,6 +370,7 @@
      - **Inspiration:** 
        1. Online Hard Sample Mining.
        2. Obtain faster convergence when using BCE.
+       3. Surface localization.
 
 
 [NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image](https://arxiv.org/abs/2007.15340). ECCV, 2020. [[Page]](http://www.liuyebin.com/NormalGan/normalgan.html) 
