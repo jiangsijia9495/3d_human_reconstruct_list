@@ -416,7 +416,7 @@
 
 
 ###  ArXiv
-
+[Learning Implicit 3D Representations of Dressed Humans from Sparse Views](https://arxiv.org/abs/2104.08013)
 
 [Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture](https://arxiv.org/abs/2011.12866). ArXiv, 2020.  
 
